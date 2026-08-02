@@ -6,6 +6,7 @@ Rainmeter skin for the countdown function of the video game Persona 5 Royal.
 - "Event": Event name on the deadline day
 - "MainTask": Your major task before the event occurs
 - "Step": The necessary step to do the major task or the side objective
+
 Example:
 ```
 [Variables]
